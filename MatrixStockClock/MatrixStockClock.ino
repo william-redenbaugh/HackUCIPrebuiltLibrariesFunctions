@@ -16,8 +16,8 @@ Main Matrix Stock Clock file
 // Communication information
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                  
-#define AIO_USERNAME    "wredenba"
-#define AIO_KEY         "aio_VOvt36DtLob6R6509gy6dP4VYMQV"
+#define AIO_USERNAME    "account_username"
+#define AIO_KEY         "account_key"
 
 // Objects to deal with actual connection and mqtt stuff. 
 WiFiClient client;
